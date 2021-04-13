@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.name{
+    margin-top: 10px;
+    text-align: center;
+    
+}
+
+body p{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 25px; 
+}
+
+.email{
+    text-align: left;
+}
+
+.summary{
+    margin-left: 300px;
+    text-align: start;
+}
+
+.biodata{
+    margin-left: 300px;
+    text-align: start;
+}
+
+.experience{
+    margin-left: 300px;
+    text-align: start;
+}
+
+
+.education{
+    margin-left: 300px;
+    text-align: start;
+}  
+.background{
+    font-size: 25px;
+}
+
+li{
+    list-style: disc;
+}
+    
+.cert{
+    margin-left: 300px;
+    text-align: start;
+}
+
+
+
